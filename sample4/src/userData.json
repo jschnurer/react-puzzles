@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Justin",
+    "city": "Sault Sainte Marie",
+    "state": undefined,
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "name": "Sang",
+    "city": "Houston",
+    "state": "Texas",
+    "country": "USA"
+  },
+  {
+    "id": 3,
+    "name": "Clint",
+    "city": "Houston",
+    "state": "Texas",
+    "country": undefined
+  },
+  {
+    "id": 4,
+    "name": "Danesh",
+    "city": undefined,
+    "state": undefined,
+    "country": "USA"
+  },
+  {
+    "id": 5,
+    "name": "Stephen",
+    "city": undefined,
+    "state": undefined,
+    "country": undefined
+  },
+  {
+    "id": 5,
+    "name": "Sergio",
+    "city": undefined,
+    "state": "Sao Paulo",
+    "country": undefined
+  }
+]
